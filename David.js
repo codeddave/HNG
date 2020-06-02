@@ -1,1 +1,0 @@
-Var David = 100
